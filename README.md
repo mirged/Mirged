@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Mirged/Mirged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vladislav. I'm a beginner programmer who's interested in learning more about the world of computer science.
 
-Here are some ideas to get you started:
+## 🌱 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my skills:
+
+- **Programming languages:** Python, C#, C
+
+- **Tools:** Git, Visual Studio Code, Mono
+
+- **Learning:** Rust
+
+## 📫 How to reach me
+
+Feel free to connect with me on [Reddit](https://www.reddit.com/user/mirged/) to chat about anything related to programming or computer science. You can also email me at ntaip004@gmail.com for any inquiries.
+
+## 💬 Fun fact
+
+I'm passionate about minimalism and sustainability, and I believe that our obsession with material possessions is holding us back from true happiness and fulfillment. I try to live a simple and intentional life, focusing on experiences and relationships rather than things.
+
+
+Thanks for stopping by and have a great day! 😊
+
+
+
+<!---
+Mirged/Mirged is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
