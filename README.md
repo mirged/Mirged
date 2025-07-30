@@ -14,7 +14,7 @@ Here are some of my skills:
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [Reddit](https://www.reddit.com/user/PriceAdmirable9898/) to chat about anything related to programming or computer science. You can also email me at ntaip004@gmail.com for any inquiries.
+Feel free to connect with me on [Reddit](https://www.reddit.com/user/mirged/) to chat about anything related to programming or computer science. You can also email me at ntaip004@gmail.com for any inquiries.
 
 ## 💬 Fun fact
 
