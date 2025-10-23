@@ -6,7 +6,7 @@
 
 I am building a suite of standalone, high-performance desktop tools for creators. This project is a public "proof of work" and a journey in mastering the craft of software engineering.
 
-*   **Current Project:** [genesis-engine-lexicon](https://github.com/[Mirged]/genesis-engine-lexicon) - A procedural language generator.
+*   **Current Project:** [genesis-engine-lexicon](https://github.com/Mirged/genesis-engine-lexicon) - A procedural language generator.
 *   **The Forge (Language):** `Rust`
 *   **The Philosophy:** To build durable, offline-first software that respects the user and their creative process.
 
