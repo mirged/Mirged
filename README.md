@@ -26,7 +26,7 @@ I am building a suite of standalone, high-performance desktop tools for creators
 
 ### Connect & Follow the Journey
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fam_i_pointless)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/am_i_pointless)
 
 ---
 
