@@ -1,4 +1,4 @@
-# Vladislav // System Architect in Training
+# Vladislav Buinickij // System Architect in Training
 
 > Fusing a passion for linguistics, worldbuilding, and low-level systems to build high-performance creative tools.
 
