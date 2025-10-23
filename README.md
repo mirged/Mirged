@@ -1,31 +1,33 @@
-# Hi there! 👋
+# Vladislav // System Architect in Training
 
-My name is Vladislav. I'm a beginner programmer who's interested in learning more about the world of computer science.
+> Fusing a passion for linguistics, worldbuilding, and low-level systems to build high-performance creative tools.
 
-## 🌱 Skills
+## Mission: Operation Genesis Engine
 
-Here are some of my skills:
+I am building a suite of standalone, high-performance desktop tools for creators. This project is a public "proof of work" and a journey in mastering the craft of software engineering.
 
-- **Programming languages:** Python, C#, C
+*   **Current Project:** [genesis-engine-lexicon](https://github.com/[Mirged]/genesis-engine-lexicon) - A procedural language generator.
+*   **The Forge (Language):** `Rust`
+*   **The Philosophy:** To build durable, offline-first software that respects the user and their creative process.
 
-- **Tools:** Git, Visual Studio Code, Mono
+---
 
-- **Learning:** Rust
+### Core Principles
 
-## 📫 How to reach me
+1.  **Performance First:** Creative flow shouldn't be interrupted by a loading bar. All tools are native and built for speed.
+2.  **User Sovereignty:** No subscriptions, no cloud dependencies. When you acquire a tool, you own it. It works forever.
+3.  **Transparent Development:** The entire creation process is public. Follow along as I learn, build, and solve problems in the open.
 
-Feel free to connect with me on [Reddit](https://www.reddit.com/user/mirged/) to chat about anything related to programming or computer science. You can also email me at ntaip004@gmail.com for any inquiries.
+### Current Focus
 
-## 💬 Fun fact
+*   Mastering the fundamentals of Rust (ownership, borrowing, structs).
+*   Implementing core phonetic and grammar rule systems for Lexicon.
+*   Documenting every step of the journey.
 
-I'm passionate about minimalism and sustainability, and I believe that our obsession with material possessions is holding us back from true happiness and fulfillment. I try to live a simple and intentional life, focusing on experiences and relationships rather than things.
+### Connect & Follow the Journey
 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fam_i_pointless)
 
-Thanks for stopping by and have a great day! 😊
+---
 
-
-
-<!---
-Mirged/Mirged is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*This journey began at age 16. Every line of code is a step forward.*
