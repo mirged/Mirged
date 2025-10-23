@@ -26,7 +26,7 @@ I am building a suite of standalone, high-performance desktop tools for creators
 
 ### Connect & Follow the Journey
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/am_i_pointless)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://img.shields.io/twitter/follow/am_i_pointless)
 
 ---
 
